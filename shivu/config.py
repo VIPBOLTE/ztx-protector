@@ -14,7 +14,7 @@ class Config(object):
     CHARA_CHANNEL_ID = "-1002126989582"
     api_id = 22792918
     api_hash = "ff10095d2bb96d43d6eb7a7d9fc85f81"
-    
+    SUPPER_CHAT = https://t.me/LOVING_SOCIETY
     STRICT_GBAN = True
     ALLOW_CHATS = True
     ALLOW_EXCL = True
